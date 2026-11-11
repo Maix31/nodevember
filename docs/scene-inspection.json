@@ -1,0 +1,17 @@
+{
+  "blender_version": "5.3.0",
+  "development_stage": "NV13 fractured strata on both framing cliffs",
+  "node_generated_mesh_hosts": true,
+  "used_node_trees": 54,
+  "invalid_node_links": 0,
+  "image_texture_nodes": 0,
+  "packed_viewing_images": 8,
+  "unpacked_file_images": [],
+  "render_resolution": [
+    4224,
+    2304
+  ],
+  "samples": 1024,
+  "camera_lens_mm": 14.5,
+  "automated_checks": "Saved-file and node-graph inspection only. New topology and final-render validation remain pending after the system crash."
+}

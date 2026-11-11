@@ -1,0 +1,14 @@
+# Blender backups, autosaves and crash files
+*.blend[0-9]*
+*.blend@
+*.blend.tmp
+*.crash.txt
+# Heavy or temporary render outputs
+/renders/
+*.exr
+*.tmp
+# Local automation, caches and credentials
+.env
+.env.*
+__pycache__/
+.DS_Store
